@@ -139,3 +139,122 @@ align-items: center;
 .action{
     width: 40%;
 }
+
+/* footer style */
+
+footer{
+    background-color: #000000;
+}
+.footer-widget {
+    color: #fff;
+    padding: 130px 0;
+    display: flex;
+    gap: 300px;
+  }
+  .left-widget {
+    width: 50%;
+  }
+  .left-widget h2{
+    font-size: 40px;
+    margin-bottom: 30px;
+  }
+  .left-widget p {
+    font-size: 20px;
+    margin-bottom: 36px;
+  }
+.footer-icon img {
+    margin-right: 20px;
+  }
+  .right-widget {
+    width: 50%;
+  }
+  .right-widget h3 {
+    font-size: 28px;
+    margin-bottom: 30px;
+  }
+
+  .right-widget form input {
+    padding: 21px 20px;
+    width: 100%;
+    margin-bottom: 20px;
+    font-size: 20px;
+    background: transparent;
+    color: #fff;
+    outline: 0;
+    border: 1px solid #fff;
+    border-radius: 10px;
+  }
+  .right-widget form .submit{
+    width: 50%;
+    background-color: #005FAC;
+    border: 1px solid #005FAC;
+  }
+
+  .task{
+    text-align: center;
+    width: 50%;
+    margin: 0 auto 80px;
+  }
+  .task-text{
+    font-size: 40px;
+    margin-bottom: 20px;
+  }
+
+  .task-para{
+    font-size: 18px;
+    color: #8D97AD;
+    letter-spacing: 1px;
+  }
+
+  /* team section */
+
+  .our-team{
+    text-align: center;
+    margin-bottom: 130px;
+  }
+  .team-heading{
+    width: 50%;
+    margin: 0 auto 80px;
+  }
+  .team-heading .team-title{
+    font-size: 40px;
+    margin-bottom: 20px;
+  }
+  .team-heading .team-description{
+    font-size: 18px;
+    color: #8D97AD;
+    letter-spacing: 1px;
+  }
+  .team-members{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  .team{
+    box-shadow: 0 0 10px rgba(0, 101, 177, .4);
+    padding: 8px;
+    border-radius: 5px;
+  }
+  .team img {
+    width: 200px;
+  }
+  .team h3 {
+    font-size: 26px;
+  }
+  .team h4 {
+    font-size: 22px;
+    margin: 5px 0 10px;
+    color: #8D97AD;
+    font-weight: 500;
+  }
+  .team p {
+    font-size: 18px;
+    color: #8D97AD;
+  }
+  
+  .thrree-para{
+    margin-top:20%;
+  }
+  .position{
+    margin-top: 20%;
+  }
