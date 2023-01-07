@@ -76,3 +76,43 @@ align-items: center;
     font-size: 22px;
     margin-right: 8px;
 }
+
+.plan{
+    display: flex;
+}
+
+/* my-plan style */
+
+.plan{
+    text-align: center;
+}
+.My-Plans{
+    margin-bottom: 130px;
+    text-align: center;
+}
+.My-Plans-title{
+    margin-bottom: 30px;
+    font-size: 40px;
+}
+.plan{
+    margin-top: 90px;
+    display: flex;
+    justify-content:space-around;
+}
+
+.plan .plane-design img {
+    width: 90px;
+    margin-bottom: 30px;
+}
+.plane-design h3 {
+    font-size: 30px;
+}
+
+.plane-design p{
+    font-size: 20px;
+    color: #737272;
+    margin-top: 10px;
+}
+.My-Plans-title{
+    text-align: center;
+}
