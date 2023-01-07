@@ -1,0 +1,78 @@
+*{
+    margin: 0%;
+    font-family: 'roboto', sans-serif ;
+    box-sizing:border-box;
+}
+
+.primary-btn{
+    font-size: 24px;
+    font-weight: 700;
+    padding: 20px 45px;
+    color: #005FAC;
+    background-color: #ffffff;
+    border: 0;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+
+/* header style */
+header{
+    background-image: url(../images/banner/banner3.png);
+    background-position: center;
+    background-size: cover;
+    background-position: center;
+}
+.banner{
+    padding: 266px 16px 0;
+width: 50%;
+margin-left: auto;
+text-align: right;
+color: #ffffff;
+
+}
+.banner-title{
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right;
+    margin-bottom: 0px;
+}
+.banner-description{
+    font-size: 22px;
+    letter-spacing: 1px;
+    margin: 20px 0 40px;
+}
+/* my failure section */
+
+.failure{
+display: flex;
+margin: 130px 0;
+gap: 100px;
+align-items: center;
+}
+
+.failure-content-title{
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+
+.failure-content-para{
+    font-size: 20px;
+    color: #444343;
+    margin-bottom: 30px;
+}
+
+.failure-list{
+    margin-bottom: 15px;
+}
+
+.failure-list span i{
+    color: #16D887;
+    font-size: 22px;
+    margin-right: 8px;
+}
